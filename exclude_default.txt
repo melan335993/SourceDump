@@ -1,0 +1,11 @@
+.*
+__*
+node_modules
+build
+bin
+obj
+*.exe
+*.obj
+*.pdb
+*.png
+*.jpg
