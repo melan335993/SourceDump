@@ -1,5 +1,7 @@
 .*
 __*
+*.lock
+*.log
 node_modules
 build
 bin
