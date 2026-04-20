@@ -132,7 +132,7 @@ For an empty context line, emit a single space followed by newline.
 * logging
 * comment style
 16. Preserve newline behavior:
-* if the patched file should end without trailing newline, use `\ No newline at end of file` where appropriate
+* if the patched file should end without trailing newline, use `\\ No newline at end of file` where appropriate
 * otherwise do not add that marker
 17. Never include snapshot line numbers unless they are actual file content.
 18. Large-change safety rule:
